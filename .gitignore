@@ -1,6 +1,7 @@
 # Environments
 .venv/
 venv/
+myvenv/
 
 # Python cache
 __pycache__/
@@ -15,5 +16,11 @@ Thumbs.db
 
 .env
 
+# Trained model artifacts
+*.joblib
+
 # Personal notes and documentation
 aqi-mlops/docs/
+NOTES.md
+SESSION.md
+.vscode/
