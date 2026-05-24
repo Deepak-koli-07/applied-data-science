@@ -1,8 +1,8 @@
 name: Daily AQI Retraining Pipeline
 
 on:
-  schedule:
-    - cron: "0 2 * * *"   # every day at 2am UTC (7:30am IST)
+  # schedule:
+  #   - cron: "0 2 * * *"   # every day at 2am UTC (7:30am IST)
   workflow_dispatch:       # manual Run button in GitHub UI for testing
 
 jobs:
