@@ -19,10 +19,9 @@ Data science projects and explorations — from EDA to production. Each project 
 | Notebook | Concepts |
 |----------|---------|
 | [`credit-card-fraud`](credit-card-fraud/) | Imbalanced classification · SMOTE · threshold tuning · SHAP explainability |
-| [`time-series`](time-series/) | ARIMA · stationarity · ACF/PACF · real Nifty 50 data |
 
 ---
 
 ## Stack
 
-Python · scikit-learn · FastAPI · Streamlit · MLflow · Gradio · imbalanced-learn · SHAP · statsmodels · pandas · matplotlib · seaborn
+Python · scikit-learn · FastAPI · Streamlit · MLflow · Gradio · imbalanced-learn · SHAP · pandas · matplotlib · seaborn
