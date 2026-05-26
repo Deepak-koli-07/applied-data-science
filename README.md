@@ -19,6 +19,7 @@ Data science projects and explorations — from EDA to production. Each project 
 | Notebook | Concepts |
 |----------|---------|
 | [`credit-card-fraud`](credit-card-fraud/) | Imbalanced classification · SMOTE · threshold tuning · SHAP explainability |
+| [`telco-churn`](telco-churn/) | Binary classification · Logistic Regression vs Random Forest · hyperparameter tuning · threshold tuning · SHAP explainability |
 
 ---
 
